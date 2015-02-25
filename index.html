@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html ng-app="carMinderPlus">
+<head>
+	<meta charset="UTF-8">
+	<title>Car Minder Plus</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.min.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
+	<link rel="stylesheet" type="text/css" href="styles/responsive.css">
+	<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	
+</head>
+<body>
+<div id="container">
+	<div ng-view id="center-view"></div>
+	<footer>
+		<ul>
+			<li>
+				<a href="#/">Home</a>
+				<a href="#/view/cars">View Cars</a>
+				<a href="#/settings">Settings</a>
+			</li>
+		</ul>
+	</footer>
+</div>
+
+	<!-- Angular Magic
+	********************
+	-->
+	<script>
+	var carMinderPlus = angular.module('carMinderPlus', ['ngRoute', 'carMinderPlus']);
+	carMinderPlus.config(function($routeProvider){
+		$routeProvider
+			.when('/',
+				{
+					templateUrl: 'views/mainView.html'	
+				})
+			.when('/view/cars',
+				{
+					controller: 'Cars',
+					templateUrl: 'views/carsView.html'
+				})
+			.when('/carview/:id',
+				{
+					controller: 'Cars',
+					templateUrl: 'views/carInfo.html'}
+				)
+			.when('/settings',
+			{
+				templateUrl: 'views/settings.html'
+			})
+			.otherwise({redirectTo: '/'});
+	});
+	var controllers = {};
+	controllers.Cars = function($scope){
+		$scope.cars =  [
+			{name: 'The Sploder',make:'Ford',model:'Pinto',mileage:'68,543',mpg:'18',id:'1'},
+			{name: 'Tracker',make:'Lotus',model:'Excige',mileage:'3,543',mpg:'18',id:'2'},
+			{name: 'Hauler',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'3'},
+			{name: 'Commuter',make:'Honda',model:'Civic',mileage:'100,069',mpg:'42',id:'4'},
+			{name: 'Worker',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'5'},
+			{name: 'Hauler',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'6'},
+			{name: 'Commuter',make:'Honda',model:'Civic',mileage:'100,069',mpg:'42',id:'7'},
+			{name: 'Worker',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'8'},
+			{name: 'Hauler',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'9'},
+			{name: 'Commuter',make:'Honda',model:'Civic',mileage:'100,069',mpg:'42',id:'10'},
+			{name: 'Worker',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'11'},
+			{name: 'People Mover',make:'Dodge',model:'Dakota',mileage:'98,684',mpg:'12',id:'12'}
+		]
+	}
+	carMinderPlus.controller(controllers);
+	</script>
+</body>
+</html>

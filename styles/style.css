@@ -1,0 +1,166 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#container{
+	margin: 0 auto;
+	width: 667px;
+	border: 1px solid black;
+}
+#center-view{
+		overflow: scroll;
+
+}
+/***
+	Main screen
+*/
+.main{
+	background-image: url('../assets/road-background.jpg');
+	height: 100%;
+	width: 100%;
+}
+.main .splash{
+	padding-left: 25%;
+}
+
+#login-form{
+	width: 300px;
+	margin: 0 auto;
+}
+#login-form h3{
+	background-color: ##282830;
+	border-radius: 5px 5px 0 0;
+	color: #fff;
+	font-size: 2em;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#login-form fieldset{
+	background: #fff;
+	border-radius: 0 0 5px 5px;
+	padding: 20px;
+	position: relative;
+}
+
+#login-form fieldset:before{
+	background-color: #fff;
+	content: "";
+	height: 8px;
+	left: 50%;
+	margin: -4px 0 0 -4px;
+	position: absolute;
+	top: 0;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+	width: 8px;
+}
+
+#login-form input{
+	font-size: 14px;
+	display: inline;
+}
+
+#login-form input[type="email"],
+#login-form input[type="password"] {
+	border: 1px solid #dcdcdc;
+	padding: 12px 10px;
+	width: 100%;
+}
+
+#login-form input[type="email"] {
+	border-radius: 3px 3px 0 0;
+}
+#login-form input[type="email"]:before {
+	content: 'hello';
+}
+
+#login-form input[type="password"] {
+	border-top: none;
+	border-radius: 0px 0px 3px 3px;
+}
+
+#login-form input[type="submit"] {
+	background: #1dabb8;
+	border-radius: 3px;
+	color: #fff;
+	float: right;
+	font-weight: bold;
+	margin-top: 20px;
+	padding: 12px 20px;
+}
+
+#login-form input[type="submit"]:hover { background: #198d98; }
+
+#login-form  footer {
+	font-size: 12px;
+	margin-top: 16px;
+	background-color: inherit;
+}
+
+.info {
+	background: #e5e5e5;
+	border-radius: 50%;
+	display: inline-block;
+	height: 20px;
+	line-height: 20px;
+	margin: 0 10px 0 0;
+	text-align: center;
+	width: 20px;
+}
+
+/***
+	Car Listing
+*/
+.car-row{
+	height: 168px;
+	width: 100%;
+	display: inline-block;
+	border-bottom: 2px solid #ccc;
+}
+.car-row:hover{
+	background-color: #ccc;
+}
+.car-row:nth-child(odd){
+	background-color: #eee;
+}
+.car-row ul{
+	list-style-type: none;
+	line-height: 1.5em
+}
+.car-row img{
+	height: 168px;
+	float: left;
+	padding-right: 20px;
+}
+.car-row .mileage{
+	float: right;
+}
+
+.car-row .car-content{
+	padding-top: 20px;
+}
+
+/* Car Information */
+.car-info{
+	background-image: url('../assets/road-background.jpg');
+	background-repeat: no-repeat;
+	height: 1337px;
+}
+
+
+/*****
+	Footer
+*****/
+footer{
+	height: 50px;
+	background-color: #ccc;
+}
+
+footer ul li{
+	display: inline;
+}

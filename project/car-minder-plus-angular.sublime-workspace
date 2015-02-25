@@ -1,0 +1,1694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"carsView.html"
+			],
+			[
+				"bacgc",
+				"background-color"
+			],
+			[
+				"car",
+				"carMinderPlus〔variable〕"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"curr",
+				"currPos"
+			],
+			[
+				"f",
+				"font-faces/"
+			],
+			[
+				"CTA_FINAlogo",
+				"CTA_FinalLogoRGB-01-150x150.png	w:150 h:150"
+			],
+			[
+				"exi",
+				"exif"
+			],
+			[
+				"pi",
+				"pizzashop"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"center",
+				"center"
+			],
+			[
+				"mouseo",
+				"mouseover	mouseover"
+			],
+			[
+				"animat",
+				"animate	animate"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"as",
+				"associativeArray  (variable)"
+			],
+			[
+				"l",
+				"Lynda.com"
+			],
+			[
+				"fileex",
+				"filenameext  (variable)"
+			],
+			[
+				"fi",
+				"filename  (variable)"
+			],
+			[
+				"u",
+				"Users/"
+			],
+			[
+				"st",
+				"state_list  (variable)"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"flip",
+				"flipCount"
+			],
+			[
+				"arr",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/index.html",
+			"settings":
+			{
+				"buffer_size": 2550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/settings.html",
+			"settings":
+			{
+				"buffer_size": 387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/carsView.html",
+			"settings":
+			{
+				"buffer_size": 342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/mainView.html",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/carInfo.html",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/styles/style.css",
+			"settings":
+			{
+				"buffer_size": 2523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/AMPPS/www/car-minder-plus-angular/styles/responsive.css",
+			"settings":
+			{
+				"buffer_size": 1434,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"LiveStyle: Install WebKit extension"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/AMPPS/www/car-minder-plus-angular"
+	],
+	"file_history":
+	[
+		"/Applications/AMPPS/www/car-minder-plus-angular/project/car-minder-plus-angular.sublime-project",
+		"/Applications/AMPPS/www/car-minder-plus-angular/views/mainView.html",
+		"/Applications/AMPPS/www/cashcopawnemails/EDUCashCo/base-email.html",
+		"/Applications/AMPPS/www/car-minder-plus/node_modules/mongoose/node_modules/mpromise/test/promises.Aplus.js",
+		"/Applications/AMPPS/www/car-minder-plus/package.json",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/mongoskin/node_modules/mongodb/node_modules/bson/tools/jasmine-1.1.0/jasmine-html.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-12.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/issue-105.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/chai/chai.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/mongoskin/node_modules/mongodb/lib/mongodb/mongo_client.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/jade/node_modules/monocle/monocle.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/express/Makefile",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/mongoskin/node_modules/mongodb/lib/mongodb/auth/mongodb_sspi.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/.bin/jade",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/mongoskin/.jshintrc",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/hello-world/node_modules/chai/.npmignore",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/express-cli/express-styl/node_modules/jade/node_modules/monocle/node_modules/readdirp/examples/node_modules/event-stream/node_modules/from/LICENSE.APACHE2",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/express-cli/express-styl/node_modules/express/LICENSE",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/express-cli/express-styl/test.html",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/express-cli/express-styl/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/test/_/bin.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/express-cli/express-styl/node_modules/body-parser/index.js",
+		"/Applications/AMPPS/www/advanced-scripting/ch2/express-cli/express-styl/node_modules/jade/lib/nodes/block.js",
+		"/Volumes/Donkey/ericcross/Documents/Practical Node.js Source Code/practicalnode-master/ch3/test-example/test-expect.js",
+		"/Volumes/Donkey/ericcross/Documents/Practical Node.js Source Code/practicalnode-master/ch3/test-example/test.js",
+		"/Volumes/Donkey/ericcross/Documents/Practical Node.js Source Code/practicalnode-master/readme.md",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product.php",
+		"/Applications/AMPPS/www/seniorprojectdev/index.html",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/theme-compat/sidebar.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/template_home.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/template_contact.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/template_contact.php",
+		"/Applications/AMPPS/www/mostlymission/test.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/contact-form-7/includes/contact-form.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/class-oembed.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/category-template.php",
+		"/Applications/AMPPS/www/googleAnalyticsCharts/index.html",
+		"/Applications/AMPPS/www/gogoLocal/wp-content/themes/flatize/woocommerce/global/breadcrumb.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-content/themes/flatize-child-theme/template-contact.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-content/themes/flatize/less/template/base.less",
+		"/Applications/AMPPS/www/gogoLocal/wp-trackback.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/category.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/category-template.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/class-wp-admin-bar.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-content/plugins/woocommerce/templates/single-product/product-attributes.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-admin/plugins.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-content/themes/flatize/header.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/theme-compat/header.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/js/heartbeat.js",
+		"/Applications/AMPPS/www/gogoLocal/wp-content/plugins/woocommerce/includes/admin/views/html-email-template-preview.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/http.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/template-loader.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-includes/template.php",
+		"/Applications/AMPPS/www/gogoLocal/wp-admin/theme-editor.php",
+		"/Applications/AMPPS/www/js_slider_walkthrough/js_slider_functionality.js",
+		"/Applications/AMPPS/www/js_slider_walkthrough/js_slider_styles.css",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/includes/continents-cities.php",
+		"/Applications/AMPPS/www/mostlymission/wp-config.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/template_blog.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/template-loader.php",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/includes/template.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/template.php",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/theme-editor.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/framework/admin/metaboxes/single.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/woocommerce/templates/single-product-reviews.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/single-wt_portfolio.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/single.php",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/network/site-new.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/functions.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/functions.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/js/tinymce/utils/form_utils.js",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/freedoms.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/css/main.css",
+		"/Applications/AMPPS/www/mostlymission/wp-mail.php",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/ms-admin.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/style.css",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/style.css",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/js/xfn.js",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/js/post.js",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/js/theme.js",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/js/media.js",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/js/tags.js",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/js/link.js",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/wordpress-seo/.csscomb.json",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/js/jcrop/jquery.Jcrop.min.css",
+		"/Applications/AMPPS/www/mostlymission/.htaccess",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/framework/admin/assets/js/advertisementWidget.js",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/header.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/css/buttons-rtl.css",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/bookmark.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/font-faces/Lato-webfont/lato-regita-webfont.svg",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/font-faces/Colaborate-fontfacekit/ColabReg-webfont.svg",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/woocommerce/templates/global/breadcrumb.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/global/breadcrumb.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/woocommerce/woocommerce.php",
+		"/Applications/AMPPS/www/mostlymission/wp-links-opml.php",
+		"/Applications/AMPPS/www/mostlymission/wp-activate.php",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/includes/widgets.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/header.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/author.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/theme-compat/header.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/framework/includes/theme-features.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate/framework/functions/woocommerce.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/category.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/wordpress-seo/admin/class-admin.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/js/heartbeat.js",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/woocommerce/includes/admin/views/html-email-template-preview.php",
+		"/Applications/AMPPS/www/mostlymission/wp-includes/http.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.js",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/revslider/languages/revslider-old-ru_RU.mo",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/revslider/inc_php/revslider_operations.class.php",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/revision.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/plugins/revslider/languages/revslider-en_GB.mo",
+		"/Applications/AMPPS/www/mostlymission/readme.html",
+		"/Applications/AMPPS/www/mostlymission/wp-admin/network/site-themes.php",
+		"/private/var/folders/gr/4091c_d97xb0w1gv7dpz6fnc0000gn/T/fz3temp-1/style.css",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product/up-sells.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product/add-to-cart/grouped.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product/product-image.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product/product-attributes.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/content-single-product.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product-reviews.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/single-product/product-thumbnails.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/global/quantity-input.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/emails/customer-invoice.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/taxonomy-product_tag.php",
+		"/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child/woocommerce/templates/taxonomy-product_cat.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			"",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.css",
+			"",
+			"*.php",
+			"",
+			"<open folders>",
+			"<open files>",
+			"woocommerce*",
+			"woocommerce",
+			"%woocommerce%",
+			"<open files> %woocommerce%",
+			"<open files> *woocommerce",
+			"<open files>",
+			"<open files>,,/Applications/AMPPS/www/mostlymission/wp-content/themes/coruscate_child",
+			"<open files>,<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"mpg:",
+			"#login-",
+			"img",
+			"<li>",
+			"ul",
+			"cars",
+			"a",
+			"button",
+			"Partials",
+			" ",
+			"e",
+			"res.send",
+			"collection",
+			"int",
+			"Car",
+			"Post",
+			"1.16.2",
+			"msg",
+			"welcome to",
+			"bin",
+			"app.use(lo",
+			"routes",
+			"homepage",
+			"'",
+			"shortcode",
+			"marker latitude",
+			"\"",
+			"breadcrumbs",
+			"is",
+			"<div id=\"pgl-mainbody\"",
+			"publicationDate",
+			"construc",
+			"img_slid",
+			"img",
+			"loc",
+			"line-height: 1.5em;",
+			"place",
+			"text",
+			"input",
+			"introType",
+			"<header id=\"intro\"",
+			"type",
+			"intro",
+			":before",
+			"wt_container:before",
+			":before",
+			"::before",
+			"border",
+			"wt_container::before",
+			"wt_container",
+			"woocommerce_before_main_content hook",
+			"woocommerce_breadcrumb",
+			"col-lg-12",
+			"wt_mainInner",
+			"remove",
+			"sub-menu",
+			"<ul class=\"sub-menu\"",
+			"media",
+			"<h1 class=\"page-title\">",
+			"<h1 class=\"page-title\">Dining</h1>",
+			"woocommerce_breadcrum",
+			"header",
+			"nav",
+			"breadcrumb",
+			"breadc",
+			"<div id=\"introType\">",
+			"font-size: 1.5em;",
+			"color: red;",
+			"left",
+			"#logo >a",
+			"#logo > a",
+			"div#wt_containerWrapp",
+			"placeholder=\"Search for products\"",
+			"<!-- The product search selection-->",
+			".php",
+			".css",
+			"id=\"wt_main\" role=\"main\"",
+			"154px",
+			"154",
+			"154PX",
+			"headerBar",
+			"head",
+			"wt_headerWrapper",
+			"<div id=\"wt_headerWrapper\"",
+			"style=\"height: 145px",
+			"style=\"height: 145px;\"",
+			"wt_header",
+			"wt_header_st",
+			"<div id=\"wt_header-sticky-wrapper\"",
+			"sticky_header",
+			"search",
+			"dynamic_sidebar",
+			"wt_theme_generator",
+			"headerWi",
+			"header.php",
+			"search",
+			"header",
+			"div#wt_header-sticky-wrapper",
+			"#logo > a",
+			"#logo",
+			"#logo >",
+			"#logo",
+			"logo",
+			"id=\"logo\"",
+			"#headerBar ul>li",
+			"header id",
+			"tab",
+			"tabs",
+			"Product Description",
+			"Product",
+			"panel",
+			"entry-content",
+			"<div class=\"panel entry-content\"",
+			"footer",
+			"woocommerce_product_cat",
+			"id=\"intro\"",
+			"9",
+			"<div id=\"wt_main\" role=\"main\"",
+			"wt_mainInner",
+			"<div id=\"wt_main\" role=\"main\"",
+			"<div id=\"wt_container\" class=\"clearfix\">",
+			"<!-- <div id=\"wt_container\" class=\"clearfix\"> -->",
+			"wt_content.clearfix",
+			"div#wt_content",
+			"clearfix",
+			"clearfix,*.css",
+			"clearfix *.css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1259.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/settings.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/carsView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/mainView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								515,
+								515
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/views/carInfo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/styles/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1928,
+								1928
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Applications/AMPPS/www/car-minder-plus-angular/styles/responsive.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								951,
+								951
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 876.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "car-minder-plus-angular.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"views/mainView.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				".jade",
+				"views/index.jade"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"www",
+				"bin/www"
+			],
+			[
+				"test2",
+				"test2.js"
+			],
+			[
+				"teor",
+				"test-orig.js"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"te",
+				"test-expect.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"singlep",
+				"wp-content/plugins/woocommerce/templates/single-product.php"
+			],
+			[
+				"styl",
+				"wp-content/themes/coruscate_child/style.css"
+			],
+			[
+				"template_contact",
+				"wp-content/themes/coruscate_child/template_contact.php"
+			],
+			[
+				"template_con",
+				"wp-content/themes/coruscate/template_contact.php"
+			],
+			[
+				"template",
+				"wp-content/themes/coruscate/template_contact.php"
+			],
+			[
+				"style.cs",
+				"wp-content/themes/coruscate_child/style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"category",
+				"wp-includes/category-template.php"
+			],
+			[
+				"page.",
+				"wp-content/themes/flatize/page.php"
+			],
+			[
+				"template-con",
+				"wp-content/themes/flatize-child-theme/template-contact.php"
+			],
+			[
+				"",
+				"js_slider_styles.css"
+			],
+			[
+				"contact",
+				"wp-content/plugins/contact-form-7/includes/contact-form.php"
+			],
+			[
+				"header",
+				"wp-content/themes/coruscate_child/header.php"
+			],
+			[
+				"single",
+				"wp-content/themes/coruscate_child/woocommerce/templates/single-product.php"
+			],
+			[
+				"functions",
+				"wp-content/themes/coruscate_child/functions.php"
+			],
+			[
+				"head",
+				"wp-content/themes/coruscate_child/header.php"
+			],
+			[
+				"main.js",
+				"wp-content/themes/coruscate/js/main.js"
+			],
+			[
+				".js",
+				"wp-admin/js/theme.js"
+			],
+			[
+				"bread",
+				"wp-content/plugins/woocommerce/templates/global/breadcrumb.php"
+			],
+			[
+				"revolution",
+				"wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.js"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"sing",
+				"woocommerce/templates/single-product.php"
+			],
+			[
+				"wrap",
+				"woocommerce/templates/global/wrapper-start.php"
+			],
+			[
+				"prod",
+				"woocommerce/templates/single-product.php"
+			],
+			[
+				"con",
+				"template_contact.php"
+			],
+			[
+				"produc",
+				"single-product/short-description.php"
+			],
+			[
+				"singl",
+				"single-product.php"
+			],
+			[
+				"conta",
+				"template_contact.php"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"da",
+				"includes/data-processing.php"
+			],
+			[
+				"my",
+				"my-first-plugin.php"
+			],
+			[
+				"templ",
+				"template_contact.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"stick",
+				"/Applications/AMPPS/www/EnriqueM/wp-content/themes/Avada/framework/headers/sticky-header.php"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"about",
+				"aboutus.php"
+			],
+			[
+				"qtranslate/",
+				"plugins/qtranslate/qtranslate_widget.php"
+			],
+			[
+				"fusion",
+				"plugins/fusion-core/fusion-core.php"
+			],
+			[
+				"qtra",
+				"plugins/qtranslate/qtranslate.php"
+			],
+			[
+				"themes/header",
+				"themes/Avada-Child-Theme/header.php"
+			],
+			[
+				"avadachild",
+				"themes/Avada-Child-Theme/style.css"
+			],
+			[
+				"footer",
+				"themes/Avada-Child-Theme/footer.php"
+			],
+			[
+				"avada-child",
+				"themes/Avada-Child-Theme/style.css"
+			],
+			[
+				"avada-c",
+				"themes/Avada-Child-Theme/functions.php"
+			],
+			[
+				"foo",
+				"wp-content/themes/Avada/footer.php"
+			],
+			[
+				"es.mo",
+				"wp-content/themes/old/pink-touch-2/languages/es.mo"
+			],
+			[
+				"qtranslate",
+				"wp-content/plugins/qtranslate/readme.txt"
+			],
+			[
+				"qtrans",
+				"wp-content/plugins/qtranslate/qtranslate_hooks.php"
+			],
+			[
+				"foot",
+				"wp-content/themes/Avada-Child-Theme/footer.php"
+			],
+			[
+				"list-widg",
+				"wp-content/plugins/the-events-calendar/views/widgets/list-widget.php"
+			],
+			[
+				"tribe-events.css",
+				"wp-content/plugins/the-events-calendar/resources/tribe-events-skeleton.css"
+			],
+			[
+				"tribe-even",
+				"wp-content/plugins/the-events-calendar/resources/tribe-events-theme.css"
+			],
+			[
+				"tribe.css",
+				"wp-content/plugins/the-events-calendar/resources/tribe-events-full.css"
+			],
+			[
+				"sideb",
+				"wp-includes/theme-compat/sidebar.php"
+			],
+			[
+				"avada-chils",
+				"wp-content/themes/Avada-Child-Theme/style.css"
+			],
+			[
+				".css",
+				"stylesheets/layout.css"
+			],
+			[
+				".html",
+				"basic.html"
+			],
+			[
+				"tr",
+				"transitions.html"
+			],
+			[
+				"cor",
+				"geolocation/cordova.js"
+			],
+			[
+				"geolo",
+				"geolocation/geolocation.html"
+			],
+			[
+				"bas",
+				"stylesheets/base.css"
+			],
+			[
+				"reg",
+				"register.php"
+			],
+			[
+				"conf",
+				"confirm.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"carmind",
+				"~/Documents/Web Projects/carMinderPlus/SL/carMinderPlus.sublime-project"
+			],
+			[
+				"weather",
+				"~/Documents/Web Projects/Weather App/Weather Webapp/sublimeProject.sublime-workspace"
+			],
+			[
+				"",
+				"/Applications/AMPPS/www/sandbox/memeGenerator/memeProject.sublime-project"
+			],
+			[
+				"cro",
+				"/Applications/AMPPS/www/crosswebdesigns/Sublime/CrossWebDesigns.sublime-project"
+			],
+			[
+				"a",
+				"/Applications/AMPPS/www/aiwebclub/SL/aiwebclub.sublime-project"
+			],
+			[
+				"jq",
+				"/Applications/AMPPS/www/jQforWDLynda/Sublime/jQforWDLynda.sublime-project"
+			],
+			[
+				"j",
+				"/Applications/AMPPS/www/jQforWDLynda/Sublime/jQforWDLynda.sublime-project"
+			],
+			[
+				"sa",
+				"~/Documents/Sublime Projects/sandbox.sublime-project"
+			],
+			[
+				"fo",
+				"/Applications/AMPPS/www/sandbox/Foundation/foundation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,15 @@
+<div ng-repeat="car in cars" class="car-row">
+	<a href="#/carview/{{car.id}}">
+	<img src="http://dummyimage.com/227x168/000/fff">
+	<div class="car-content">	
+		<h2>{{car.name}}</h2> 
+		<br />
+		{{car.make}} {{car.model}}
+		<div class="mileage">
+		Car Mileage: {{car.mileage}}
+		<br />
+		Fuel Mileage: {{car.mpg}}
+		</div>
+	</div>
+	</a>
+</div>
